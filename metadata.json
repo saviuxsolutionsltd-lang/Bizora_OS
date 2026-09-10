@@ -1,0 +1,6 @@
+{
+  "name": "BizoraOS ERP POS",
+  "description": "BizoraOS Hardware & Electricals ERP POS System with offline sync, eTIMS/Daraja readiness, Till management, and Flutter & PHP export.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
